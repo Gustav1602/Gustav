@@ -3,7 +3,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Datenschutzerklärung – Gustav</title>
+  <title>Datenschutzerklärung – Gustav</eRechnung>
 </head>
 <body>
   <h1>Datenschutzerklärung</h1>
